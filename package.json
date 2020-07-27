@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/musfirotus/CLI-Challenge/issues"
   },
-  "homepage": "https://github.com/musfirotus/CLI-Challenge#readme"
+  "homepage": "https://github.com/musfirotus/CLI-Challenge#readme",
+  "dependencies": {
+    "@caporal/core": "^2.0.2"
+  }
 }
