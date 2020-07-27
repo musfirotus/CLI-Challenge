@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 // Code by Musfirotus Sa'adah
 const { program } = require("@caporal/core");
 
