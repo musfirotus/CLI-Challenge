@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/musfirotus/CLI-Challenge#readme",
   "dependencies": {
-    "@caporal/core": "^2.0.2"
+    "@caporal/core": "^2.0.2",
+    "dotenv": "^8.2.0"
   }
 }
