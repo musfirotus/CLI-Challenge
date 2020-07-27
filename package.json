@@ -21,8 +21,9 @@
   "homepage": "https://github.com/musfirotus/CLI-Challenge#readme",
   "dependencies": {
     "@caporal/core": "^2.0.2",
+    "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
-    "request": "^2.88.2"
+    "os": "^0.1.1"
   }
 }
